@@ -1,4 +1,4 @@
 Blogs | Swastik Sharma
 =======
-https://swastkk.github.io/blogs
+[blog.swastiksharma.me](https://blog.swastiksharma.me)
 
