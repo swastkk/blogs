@@ -8,8 +8,9 @@ pin: true
 image:
   path: /assets/images/webscrap.webp
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
-  alt:
+  alt: 
 ---
+
 
 **Web scraping** is a automatic method to obtain large amounts of data from the websites. Suppose we have to obtain some information from a website, usually what we did, is to start copy paste the data from the website to our file, but if we practically think, this method is quite cumbersome. And suppose if you are into data analysis, big data, machine learning or even AI projects, chances are you are required to collect data from various websites and there comes the concept of web scraping.
 
@@ -78,3 +79,5 @@ Tadda, you have successfully scraped the data from the website you want. Now, we
 If anyone finds these useful, feel free to share this, and comment down the issues you are facing.
 
 Happy Hacking :)
+
+Originally posted on Medium [here](https://medium.com/coderbyte/web-scraping-with-python-48ae39656bbb)
