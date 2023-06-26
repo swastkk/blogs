@@ -3,6 +3,9 @@
 icon: fas fa-info-circle
 order: 4
 ---
+# Hey!, Swastik this side
+----
+I am Swastik Sharma, Junior at National Institute of Technology, Hamirpur persuing bachelors in Electrical Engineering
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+## Full portfolio
+[swastiksharma.me](https://swastiksharma.me)
