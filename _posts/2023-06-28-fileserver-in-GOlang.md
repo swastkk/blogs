@@ -95,9 +95,14 @@ To set up a sort of quick NAS (Network Attached Storage) system:
 3. Start your File server with `go run .`
 4. Open new terminal and type `ifconfig` on nix or MacOS or `ipconfig` on Windows and `ip address` on Linux to find your IP address.
 
-Now on the second device:
-* Open browser and type in the IP address of the first machine, along with port 5000
+Now on the **second device**:
+
+Open browser and type in the IP address of the first machine, along with port 5000
 
 `http://[ip address]:5000`
 
 A page will open showing all the files in the directory being shared from the first computer.
+
+If facing any issue, can refer to the example fileserver at [example](https://github.com/swastkk/go_microservices/tree/master/fileserver).
+
+Happy Hacking :")
