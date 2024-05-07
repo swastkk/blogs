@@ -1,6 +1,6 @@
 Blogs | Swastik Sharma
 =======
-[blog.swastiksharma.me](https://blog.swastiksharma.me)
+[blog.swastiksharma.in](https://blog.swastiksharma.in)
 
 ## Usage
 #### Setup
