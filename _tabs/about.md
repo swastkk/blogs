@@ -8,4 +8,4 @@ order: 4
 I am Swastik Sharma, Junior at National Institute of Technology, Hamirpur persuing bachelors in Electrical Engineering
 
 ## Full portfolio
-[swastiksharma.me](https://swastiksharma.me)
+[swastiksharma.in](https://swastiksharma.in)
