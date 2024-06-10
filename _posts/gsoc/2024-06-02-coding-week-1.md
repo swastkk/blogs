@@ -1,11 +1,11 @@
 ---
 title: Coding Period Week 1
-author: Swastik Sharma
+author: swastik
 date: 2024-06-02 09:55:00 +0800
 categories: [python, package, summary]
 tags: [gsoc]
 image:
-  path: /assets/images/cw-1.jpg
+  path: /assets/gifs/cw-1.gif
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
   alt:
 ---
@@ -28,22 +28,22 @@ License Clarity is a set of criteria that indicate how clearly, comprehensively,
 
 Calculated by combining weighted values of the following elements:
 
-1. **Declared License (40%)**
+1. **Declared License (40)**
    - Indicates if the license is documented in key files like the package manifest, NOTICE, LICENSE, COPYING, or README.
 
-2. **Identification Precision (40%)**
+2. **Identification Precision (40)**
    - Measures how well the license statement matches known licenses with precise identifiers from sources like ScanCode LicenseDB, SPDX, OSI, or a specific URL.
 
-3. **License Texts (10%)**
+3. **License Texts (10)**
    - Confirms if license texts supporting the declared license are provided in key files.
 
-4. **Declared Copyright (10%)**
+4. **Declared Copyright (10)**
    - Indicates if the copyright is documented in key files.
 
-5. **Ambiguous Compound Licensing (-10%)**
+5. **Ambiguous Compound Licensing (-10)**
    - Flags if the license declaration is unclear due to poorly defined multiple licenses.
 
-6. **Conflicting License Categories (-20%)**
+6. **Conflicting License Categories (-20)**
    - Detects conflicts where a declared permissive license is contradicted by other licenses in the code (e.g., copyleft, proprietary).
 
 For deeper insights, refer to [Providing Clarity on License Clarity Scoring in ScanCode](https://nexb.com/scancode-license-clarity-scoring/#:~:text=The%20license%20clarity%20score%20is,licensing%2C%20and%20Conflicting%20license%20categories.).
