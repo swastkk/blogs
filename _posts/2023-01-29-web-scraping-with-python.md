@@ -102,3 +102,7 @@ Happy Hacking :)
 
 Originally posted on Medium [here](https://medium.com/coderbyte/web-scraping-with-python-48ae39656bbb)
 
+<div style="text-align: center;">
+  <p style="margin-bottom: 1px;">Visitor Count</p>
+  <img src="https://profile-counter.glitch.me/swastkk-web-scraping/count.svg" alt="visitor count" />
+</div>

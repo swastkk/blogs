@@ -112,4 +112,9 @@ For analyzing the scan results, it was suggested to use the [ScanCode Workbench]
 - [Pranay Das](https://github.com/404-geek)
 - [Swastik Sharma](https://github.com/swastkk)
 
+<div style="text-align: center;">
+  <p style="margin-bottom: 1px;">Visitor Count</p>
+  <img src="https://profile-counter.glitch.me/swastkk-cw-3/count.svg" alt="visitor count" />
+</div>
+
 

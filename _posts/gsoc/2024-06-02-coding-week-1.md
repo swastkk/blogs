@@ -107,3 +107,8 @@ We plan to implement the Plugin part first and then complete the implementation 
 - [Pranay Das](https://github.com/404-geek)
 - [Ambuj Kulshreshtha](https://github.com/ambuj-1211)
 - [Swastik Sharma](https://github.com/swastkk)
+
+<div style="text-align: center;">
+  <p style="margin-bottom: 1px;">Visitor Count</p>
+  <img src="https://profile-counter.glitch.me/swastkk-cw-1/count.svg" alt="visitor count" />
+</div>

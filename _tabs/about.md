@@ -3,9 +3,8 @@
 icon: fas fa-info-circle
 order: 4
 ---
-# Hey!, Swastik this side
-----
-I am Swastik Sharma, Junior at National Institute of Technology, Hamirpur persuing bachelors in Electrical Engineering
+I am a Swastik Sharma, dedicated Software Engineer specializing in Backend Development, currently pursuing a Bachelor's degree in Electrical Engineering. With a strong foundation in software design, algorithms, and systems architecture, I excel at creating robust and scalable backend systems. My academic background in electrical engineering further enriches my understanding of hardware-software integration, enabling me to develop optimized solutions for complex technical challenges.
+
 
 ## Full portfolio
 [swastiksharma.in](https://swastiksharma.in)

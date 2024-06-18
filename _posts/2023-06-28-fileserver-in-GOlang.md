@@ -123,3 +123,7 @@ If facing any issue, can refer to the example fileserver at [example](https://gi
 
 Happy Hacking :")
 
+<div style="text-align: center;">
+  <p style="margin-bottom: 1px;">Visitor Count</p>
+  <img src="https://profile-counter.glitch.me/swastkk-file-server-go/count.svg" alt="visitor count" />
+</div>

@@ -128,3 +128,8 @@ The meeting commenced with an orientation session for this year's GSoC, led by A
 # Conclusion & Further Plans
 
 During the community bonding period, my mentor(s) and I had several in-depth discussions about the project. These conversations were incredibly productive and provided me with a clear understanding of the project’s scope and objectives. We revisited the initial project plan and identified areas that needed more detailed planning.
+
+<div style="text-align: center;">
+  <p style="margin-bottom: 1px;">Visitor Count</p>
+  <img src="https://profile-counter.glitch.me/swastkk-gsoc-cbp/count.svg" alt="visitor count" />
+</div>
